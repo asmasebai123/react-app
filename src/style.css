@@ -1,0 +1,52 @@
+h1{
+    
+       
+            color:rgba(59, 182, 248, 0.933);
+            font-size: 85px;
+            position: relative;
+            left: 860px;
+            bottom: -100px;
+            
+    
+}
+h4{
+    color: rgb(255, 255, 255);
+    float: right;
+    font-size: 17px;
+    width: 50%;
+    position: relative;
+    bottom: -100px;
+    left: 130px;
+    top: 150px;
+
+   
+}
+
+
+h3{
+    size: 100px;
+    position: relative;
+    color: aliceblue;
+    display: inline-block;
+    border-radius: 40px 40px 40px 40px;
+    background-color: rgba(59, 182, 248, 0.933);
+    padding: 10px;
+    overflow: hidden;
+    font-size: 25px;
+    bottom: -450px;
+    left: 1000px;
+    font-weight: normal;
+    width: 200px;
+    text-align: center;
+      
+  
+  }
+  img{
+    width: 800px;
+    position: relative;
+    top: -350px;
+    height:800px ;
+
+  }
+  
+  
