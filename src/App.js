@@ -7,12 +7,15 @@ import MyComponent from "./image";
 
 function App() {
   return (
-    <div>
+    
+    <div className="app-container">
+
+    <MyComponent />
+    <div className="div2">
       <Header />
-      <Txt />
-      <Read />
-      <MyComponent />
-    </div>
+
+     <Txt />
+    <Read /></div></div>
   );
 }
 

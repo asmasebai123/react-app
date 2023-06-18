@@ -1,8 +1,10 @@
 import React from "react";
+import { Link } from "react-router-dom";
 function Read() {
   return (
-    <div>
-      <h3>read more</h3>
+    <div className="reaad">
+      <Link to="/Read"><h3>read more</h3></Link>
+      
     </div>
   );
 }

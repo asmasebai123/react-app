@@ -13,7 +13,11 @@ function Txt() {
         répartis sur toutes les filières de l’Institut en s’élargissant avec
         chaque <br />promotion afin d’encadrer et former plus que 500 étudiants,<br />
         leur mettre en disposition toute connaissance et compétence et leur <br />
-        préparer à une vie professionnelle réussie.</h4>
+        préparer à une vie professionnelle réussie.
+        <br>
+        </br>
+        
+        </h4>
       </div>
   );
 }
