@@ -14,9 +14,8 @@ import SecondPage from "./secondpage";
     },
     {
         path: "Read",
-        element: <div ><SecondPage /></div>,
+        element: <SecondPage />,
       },
   ]);
 
-ReactDOM.render(<RouterProvider router={router} />, document.getElementById("page1"));
-
+ReactDOM.render(<RouterProvider router={router} />, document.getElementById("root"))
