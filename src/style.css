@@ -97,43 +97,46 @@ body{background-color: #1b2643;}
   font-size: 25px;
   size: 100px;
   padding: 30px;
-  width: 1350px;
+  width: 90vw;
   display: flex;
   display: inline-block;
   left: 50px;
+  height: 50vh;
   
  
 }
 .who{
   position: relative;
-  top: -40px;
+  top: -50px;
   color: aliceblue;
   left:-10px;
   font-weight: bold;
   font-size: 80px;
   font-family: Georgia, serif;
+  height: 10vh;
   
 }
 .info{
   position: relative;
   color: aliceblue;
   left:-500px;
-  top: -40px;
+  top: 30px;
+  height:20vh;
   
 }
 .img4{
   position: relative;
-  width: 400px;
-  height: 400px;
+  width: 30vw;
+  height: 60vh;
   top:-300px;
-  left:1100px;
+  left:990px;
 }
 .zero{
   position: relative;
   color: rgb(255, 255, 255);
   font-size: 30px;
   top: -350px;
-  left: 160px;
+  left: 190px;
 }
 .one{
   size: 100px;
@@ -145,11 +148,12 @@ body{background-color: #1b2643;}
   padding: 10px;
   overflow: hidden;
   font-size: 25px;
-  left: 500px;
+  left: 400px;
   font-weight: normal;
-  width: 500px;
+  width: 40vw;
   text-align: center;
   top:-350px
+  
 }
 .two{
   size: 100px;
@@ -161,11 +165,12 @@ body{background-color: #1b2643;}
   padding: 10px;
   overflow: hidden;
   font-size: 25px;
-  left: 500px;
+  left: 250px;
   font-weight: normal;
-  width: 500px;
+  width: 40vw;
   text-align: center;
-  top:-250px;
+  top:-256px;
+  height: 90px;
 }
 .three{
   size: 100px;
@@ -177,11 +182,12 @@ body{background-color: #1b2643;}
   padding: 10px;
   overflow: hidden;
   font-size: 25px;
-  left: 30px;
+  left: 10px;
   font-weight: normal;
-  width: 500px;
+  width: 40vw;
   text-align: center;
-  top:-350px
+  top:-350px;
+  height: 11vh;
 }
 .fou{
   position: relative;
@@ -190,7 +196,7 @@ body{background-color: #1b2643;}
   font-size: 25px;
   size: 100px;
   padding: 30px;
-  width: 1000px;
+  width: 80vw;
   display: flex;
   display: inline-block;
   left: 50px;
@@ -208,7 +214,7 @@ body{background-color: #1b2643;}
   font-size: 25px;
   size: 100px;
   padding: 30px;
-  width: 1000px;
+  width: 65vw;
   display: flex;
   display: inline-block;
   left: 450px;

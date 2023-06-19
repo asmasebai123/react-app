@@ -1,6 +1,4 @@
 import React from "react";
-import Cpulogo from "./Cpulogo.png";
-import Recbleu from "./Recbleu.png";
 import "./style.css";
 function Text() {
   return (
