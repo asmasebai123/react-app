@@ -3,8 +3,7 @@ import "./style.css";
 function Trois() {
   return (
  
-          <div className="three"> La participation aux compétitions nationales
-et internationales</div>
+          <div className="three">Compétitions</div>
     
     
 

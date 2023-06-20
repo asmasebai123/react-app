@@ -14,11 +14,12 @@ function SecondPage() {
     <div>
       <Logoright />
       <Text />
-      <Phn />
       <Titre />
-      < Un />
-      <Deux/>
-      <Trois/>
+      <div className="slog">
+        < Un />
+        <Deux/>
+        <Trois/>
+      </div>
       <Found />
       <Curr />
     </div>

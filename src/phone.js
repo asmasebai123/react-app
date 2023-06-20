@@ -5,7 +5,7 @@ import Cpulogo from "./Cpulogo.png";
 function Phn(){
     return(
         <div>
-            <img className="img4" src={phone} alt=""/>
+            {/* <img className="img4" src={phone} alt=""/> */}
         </div>
     );
 }

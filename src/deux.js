@@ -5,8 +5,7 @@ function Deux() {
     
           
         
-          <div className="two">L’organisation, des formations théoriques et
-des ateliers interactifs </div>
+          <div className="two">Formations et Ateliers</div>
     
     
 

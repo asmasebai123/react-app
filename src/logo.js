@@ -4,9 +4,11 @@ import Rectangle from "./Rectangle.png"
 import "./style.css";
 function Logoright(){
     return(
-    <div>
-    <img className="imm1" src={Cpulogo} alt=""/>
-    <img className="imm2" src={Rectangle} alt=""/>
-    </div>);
+    <div className="navbar">
+        <div className="bg-shape">
+            <img class="imm1" src={Cpulogo} alt=""/>
+        </div>
+    </div>
+    );
 }
 export default Logoright;
