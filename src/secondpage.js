@@ -9,6 +9,7 @@ import Titre from "./titre";
 import Un from "./un";
 import Deux from "./deux";
 import Trois from "./trois";
+import Gb from "./GBLog";
 function SecondPage() {
   return (
     <div>
@@ -20,8 +21,15 @@ function SecondPage() {
         <Deux/>
         <Trois/>
       </div>
+      <div className="slog2">
       <Found />
       <Curr />
+      
+
+      </div>
+      <div className="gbl">
+      <Gb />
+      </div>
     </div>
   );
 }

@@ -4,7 +4,7 @@ import "./style.css";
 function MyComponent() {
   return (
     <div className="img">
-      <img className="imagee" src={Cpuu} alt=""
+      
       
       />
     </div>

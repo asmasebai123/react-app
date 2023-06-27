@@ -4,18 +4,9 @@ function Txt() {
   return (
     <div className="txt1">
       <h4>
-        <p>Fondé en 2020 par un groupe des étudiants du département <br /> électronique et
-        informatique à ISIMM, </p>
-        <p>CPU-ISIMM est un club culturel et scientifique à
-        but non lucrative <br /> qui associe la formation recherchée et l’innovation.</p> 
+      Founded in 2020 by a group of students from the Department of Electronics and Computer Science at ISIMM, CPU-ISIMM is a non-profit cultural and scientific club that combines sought-after training and innovation.
 
-        <p>   Aujourd’hui notre club comporte plus que 80 membres qui le gèrent,</p>
-        répartis sur toutes les filières de l’Institut en s’élargissant avec
-        chaque <br />promotion afin d’encadrer et former plus que 500 étudiants,<br />
-        leur mettre en disposition toute connaissance et compétence et leur <br />
-        préparer à une vie professionnelle réussie.
-        <br>
-        </br>
+Today, our club has more than 80 members who manage it, spread across all departments of the Institute, expanding with each new intake in order to support and train over 500 students, providing them with knowledge and skills, and preparing them for a successful professional life.
         
         </h4>
       </div>

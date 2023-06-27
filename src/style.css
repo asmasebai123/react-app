@@ -7,11 +7,12 @@ h1{
             
     
 }
-h4{
+h4{ position: relative;
     color: rgb(255, 255, 255);
     /* float: right; */
-    font-size: 17px;
-    
+    font-size: 20px;
+    width: 500px;
+        
     
 
    
@@ -40,6 +41,7 @@ h3{
     background-position: center;
     background-size: cover;
     width: 50vw;
+    height: 100vh;
   }
 
 
@@ -216,12 +218,21 @@ body{background-color: #1b2643;}
   justify-content: center;
   align-items: center;
 }
+.slog2 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin-top: 100px;
+  margin-right: 50px;
+  margin-left: 50px;
+  width: 100%;}
 .fou{
   background: linear-gradient(to bottom, #47b4ea, #0c2432);
   border-radius: 40px;
   font-size: 25px;
   padding: 30px;
-  width: 80vw;
+  width: 85vw;
   display: flex;
   display: inline-block;
   height: 300px;
@@ -236,12 +247,16 @@ body{background-color: #1b2643;}
   border-radius: 40px;
   font-size: 25px;
   padding: 30px;
-  width: 65vw;
-  height: 300px;
+  width: 85vw;
+  height: 400px;
   color: aliceblue;
   font-size: 70px;
   font-family: Georgia;
   font-weight: bold;
+  top: 200px;
+  left: -100px;
+
+  
 
 }
 
@@ -264,3 +279,66 @@ body{background-color: #1b2643;}
   justify-content: center;
   align-items: center;
 }
+.gbl{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin-top: 150px;
+  margin-right: 50px;
+  margin-left: 50px;
+  width: 100%;
+justify-content: space-between; /* Increase the space between elements */
+  margin-top: 150px;}
+  .gbl > * {
+    margin-right: 100px; 
+  }
+  .gb{
+    position: relative;
+    color: aliceblue;
+    display: inline-block;
+    border-radius: 40px 40px 40px 40px;
+    background-color: rgba(59, 182, 248, 0.933);
+    padding: 10px;
+    overflow: hidden;
+    font-size: 30px;
+    width: 15%;
+    text-align: center;
+    font-size: min(2rem, 4vw);
+    font-weight: normal;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+  }
+  .log{
+    
+    position: relative;
+    color: aliceblue;
+    display: inline-block;
+    border-radius: 40px 40px 40px 40px;
+    background-color: rgba(59, 182, 248, 0.933);
+    padding: 10px;
+    overflow: hidden;
+    font-size: 30px;
+    width: 15%;
+    text-align: center;
+    
+    font-size: min(2rem, 4vw);
+    font-weight: normal;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    right: -40px;
+    
+  }
+  .link {
+    text-decoration: none;
+    color: rgb(250, 246, 246);
+  }
+  .link1{
+    text-decoration: none;
+    color: rgb(60, 63, 227);
+  }
